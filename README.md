@@ -5,4 +5,4 @@
 **本地克隆该项目，运行gui.py即可启动。**
 
 **详细使用方法请前往官网：**
-  [DataConnie](www.dataconnie.中国)
+  (www.dataconnie.中国)
